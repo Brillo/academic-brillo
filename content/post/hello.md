@@ -1,6 +1,6 @@
 +++
-title = "test"
-date = 2018-02-20
+title = "Posts"
+date = 2018-01-01
 math = false
 highlight = false
 
@@ -12,5 +12,4 @@ caption = ""
 +++
 
 
-hello
 I am hsu han yun
