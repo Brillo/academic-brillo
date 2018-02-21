@@ -23,7 +23,7 @@ weight = 5
 [[education.courses]]
   course = "Visiting Student"
   institution = "University of Wisconsin-Madison, USA"
-  year = 2014 - 2015
+  year = 2014 to 2015
 
 +++
 
