@@ -20,25 +20,10 @@ weight = 5
   course = "BA in Political Science and Sociology"
   institution = "National Taiwan University, Taiwan"
   year = 2016
-
+[[education.courses]]
   course = "Visiting Student"
   institution = "University of Wisconsin-Madison, USA"
   year = 2014 - 2015
-
-[[education.courses]]
-  course = "Introduction to Policy Analysis"
-  institution = "University of Wisconsin-Madison, USA"
-  year = 2015
-
-[[education.courses]]
-  course = "Social Identities: Definition and Measurement"
-  institution = "University of Wisconsin-Madison, USA"
-  year = 2014
-
-  [[education.courses]]
-    course = "Research Methods and Data Analysis"
-    institution = "National Taiwan University, Taiwan"
-    year = 2013
 
 +++
 
